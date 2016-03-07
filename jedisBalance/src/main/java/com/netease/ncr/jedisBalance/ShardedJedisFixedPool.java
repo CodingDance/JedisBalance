@@ -54,7 +54,7 @@ import com.google.common.collect.ImmutableList;
  *      </example>
  * </p>
  *
- * @author hzweizijun
+ * @author weizijun,yiting
  * @date 2015年8月24日 下午3:55:56
  */
 public class ShardedJedisFixedPool implements IShardedJedisPool {

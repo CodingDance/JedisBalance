@@ -53,7 +53,7 @@ import com.google.common.collect.ImmutableList;
  * </example>
  * </p>
  *
- * @author hzweizijun
+ * @author hzyiting,weizijun
  * @date 2015年8月24日 下午3:55:56
  */
 public class JedisFixedPool implements IJedisPool {
